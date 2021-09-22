@@ -1,0 +1,38 @@
+Inlämning
+
+•	HTML
+    o	Semantisk HTML är ett element som har en betydelse
+    o	Du använder <article> när du ska göra ett artikelliknande innehåll, ett <article> element innehåller nästan alltid h1-h6 element. Du använder <section> när du tex ska ha en section av ett dokument och sectioner ska alltid ha en heading. 
+•	Responsiv design
+    o	Responsiv design innebär att den anpassas efter storleken på skärmen
+    o	Du gör en bild responsiv med ex:
+    img { 
+    width: 100%;
+    max-width: 1000px;
+    }
+•	Hur webben fungerar
+    o	Klienten skickar en förfrågan till servern varpå servern svarar med att skicka tillbaka ett HTML-dokument som sen tolkas av webbläsaren och visas för användaren. 
+    o	HTTP eller Hyper Text Transfer Protocol som det också heter sköter kommunikationen mellan servern och klienten.
+    o	URL eller Uniform Resource Locator som det också heter är sökvägen eller adressen till en webbsida, och den är alltid unik. Skillnaden mellan en URL och en URI är att en URL används för att länka en webbsida och en URI används för att 
+    o	till för att förenkla adresseringen av datorer. 
+
+
+
+
+
+
+
+
+•	Sökmotoroptimering
+    o	Sökmotoroptimering är när man optimerar alla sidor på webbplatsen för specifika sökord. Och att göra detta på sin hemsida hjälper sökmotorer som tex google att förstå innehållet på hemsidan
+    o	De faktorerna som har störst påverkan är: 
+        	Korrekt HTML-kod 
+        	Ha huvudsökorden i ”title”-taggen 
+        	Snabb hemsida 
+        	Inte ha samma kontent på flera sidor utan hålla sig på en sida
+        	Alt taggarna till bilderna måste ha relevanta sökfraser
+        	Interna länkar 
+        	Sökord och sökfraser i headings
+
+•	Versionshantering
+    o	För att man ska kunna gå tillbaka o se ändringar och även dela med andra programmerare osv. 
